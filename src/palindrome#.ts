@@ -9,3 +9,4 @@ function isPalindrome(x: number): boolean {
 }
 const test1 = 1441;
 console.log(isPalindrome(test1));
+// This is the end
